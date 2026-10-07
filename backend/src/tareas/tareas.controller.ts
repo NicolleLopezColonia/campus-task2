@@ -35,4 +35,7 @@ export class TareasController {
     }
     return tarea;
   }
+  prueba(): strin()[
+  ]
+  ]
 }
